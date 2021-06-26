@@ -1,4 +1,4 @@
-# 8.2 описание Playbook по заданию
+# Описание
 
 ## GROUP VARS
 java_oracle_jdk_package - имя пакета установки Java
